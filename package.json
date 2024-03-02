@@ -1,0 +1,14 @@
+{
+  "name": "w-problem-solving",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "NODE_ENV=test node --test"
+  },
+  "keywords": [],
+  "author": "Armedi",
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
